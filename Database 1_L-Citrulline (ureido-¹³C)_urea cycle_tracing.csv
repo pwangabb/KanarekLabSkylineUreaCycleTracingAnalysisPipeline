@@ -1,0 +1,19 @@
+Molecule List Name,Molecule Name,Precursor Formula,Precursor Charge,Precursor Adduct,Explicit Retention Time,Explicit Retention Time Window
+Urea Cycle,citrulline_C0,C6H13N3O3,1,M+H,10,4
+Urea Cycle,citrulline_C1,C5C'1H13N3O3,1,M+H,10,4
+Urea Cycle,citrulline_C2,C4C'2H13N3O3,1,M+H,10,4
+Urea Cycle,citrulline_C3,C3C'3H13N3O3,1,M+H,10,4
+Urea Cycle,citrulline_C4,C2C'4H13N3O3,1,M+H,10,4
+Urea Cycle,citrulline_C5,C1C'5H13N3O3,1,M+H,10,4
+Urea Cycle,citrulline_C6,C0C'6H13N3O3,1,M+H,10,4
+Urea Cycle,argininosuccinate_C0,C10H18N4O6,1,M+H,10.3,8
+Urea Cycle,argininosuccinate_C1,C9C'1H18N4O6,1,M+H,10.3,8
+Urea Cycle,argininosuccinate_C2,C8C'2H18N4O6,1,M+H,10.3,8
+Urea Cycle,argininosuccinate_C3,C7C'3H18N4O6,1,M+H,10.3,8
+Urea Cycle,argininosuccinate_C4,C6C'4H18N4O6,1,M+H,10.3,8
+Urea Cycle,argininosuccinate_C5,C5C'5H18N4O6,1,M+H,10.3,8
+Urea Cycle,argininosuccinate_C6,C4C'6H18N4O6,1,M+H,10.3,8
+Urea Cycle,argininosuccinate_C7,C3C'7H18N4O6,1,M+H,10.3,8
+Urea Cycle,argininosuccinate_C8,C2C'8H18N4O6,1,M+H,10.3,8
+Urea Cycle,argininosuccinate_C9,C1C'9H18N4O6,1,M+H,10.3,8
+Urea Cycle,argininosuccinate_C10,C0C'10H18N4O6,1,M+H,10.3,8

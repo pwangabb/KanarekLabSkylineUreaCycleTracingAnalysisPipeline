@@ -1,0 +1,13 @@
+Molecule,MS ion or MS/MS product ion,MS/MS neutral loss
+argininosuccinate,C10H18N4O6LabN4,
+arginine,C6H14N4O2LabN4,
+glutamate,C5H9N1O4LabN1,
+aspartate,C4H7N1O4LabN1,
+glutamine,C5H10N2O3LabN2,
+asparagine,C4H8N2O3LabN2,
+proline,C5H9N1O2LabN1,
+alanine,C3H7N1O2LabN1,
+serine,C3H7N1O3LabN1,
+glycine,C2H5N1O2LabN1,
+tyrosine,C9H11N1O3LabN1,
+ornithine,C5H12N2O2LabN2,
